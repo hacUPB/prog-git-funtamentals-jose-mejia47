@@ -1,7 +1,38 @@
-# Unidad No. 1 - Git y GitHub
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/C6PSew_P)
+# Unidad No. 1 - Git y GitHub  
+En este repositorio vas a ver la informacion basica de comop hacer un repositorio en gitbash junto con capturas que evidencian el paso a paso de como editar el repositorio y montarlo a la red de trabajo de github entre muchas otras cosas ojala lo disfruten
+
+# Proyecto Python — Guía de Clonado y Ejecución
+
+Este proyecto fue desarrollado en Python y documenta el uso de Git, consola y repositorios locales y remotos.
+
+---
+
+# 🐍 Pasos para Clonar y Ejecutar el Proyecto
+
+## Clonar el repositorio
+
+Abrir la terminal (Git Bash) y ubicarse en la carpeta donde se guardarán los proyectos:
+
+```bash
+cd Documents
+
+--
+
+Clonar el repositorio desde GitHub usando la URL:
+
+git clone URL_DEL_REPOSITORIO
+
+
+# 📚 Tabla de Contenidos
+
+- [Uso de la Consola](docs/uso_consola.md)
+- [Repositorio Local](docs/repositorio_local.md)
+- [Repositorio Remoto](docs/repositorio_remoto.md)
+
 ## Información del estudiante  
-Nombre del estudiante:  
-Id.:  
+Nombre del estudiante: Jose Manuel Mejia   
+Id.:  000574830
 ---
 # Evaluación
 

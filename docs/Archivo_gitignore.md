@@ -1,0 +1,1 @@
+Un archivo local .gitignore sirve para especificar a Git qué archivos o directorios específicos de un proyecto no deben ser rastreados ni subidos al repositorio, manteniendo el historial limpio. Se utiliza para excluir archivos innecesarios (compilaciones), confidenciales (contraseñas/claves) o de configuración personal, evitando desorden y brechas de seguridad.
